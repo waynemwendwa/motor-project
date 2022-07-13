@@ -1,0 +1,360 @@
+================
+FIFA 09 README
+Gewijzigd op 31-08-2008
+=================
+
+_________________________________________________________________________
+
+Bedankt voor het aanschaffen van EA SPORTS™ FIFA 09. Dit LEESMIJ-bestand bevat zowel informatie die niet in de handleiding staat, als meer gedetailleerde informatie over bepaalde onderdelen die wel in de handleiding zijn beschreven. Je vindt hier ook informatie over algemene problemen, problemen bij het spelen met meerdere spelers en hardwareproblemen.
+
+Het is mogelijk dat de inhoud van websites waarnaar dit document verwijst niet onder de verantwoordelijkheid van Electronic Arts™ valt.
+_________________________________________________________________________
+
+OPMERKING: Windows is een geregistreerd handelsmerk van Microsoft Corporation in de Verenigde Staten en andere landen.
+
+==========================================================
+INHOUDSOPGAVE
+==========================================================
+
+1. Minimale systeemvereisten
+
+2. Het spel installeren 
+  a.) FIFA 09 installeren
+  b.) Downloadversie installeren
+  c) Als het automatische opstartscherm niet verschijnt
+
+3. DirectX® 9.0c
+  a) DirectX® rechtstreeks vanaf de dvd installeren 
+  b) DirectX® en ondersteunde hardware
+ 
+4. FIFA 09 verwijderen
+
+5. Geheugenvereisten
+  a) Geheugenvereisten in Windows
+  b) Het spel uitvoeren in een veeleisende Windows-omgeving
+  c) Virtueel geheugen
+
+6. De spelprestaties verbeteren
+
+7. Sneltoetsen
+
+8. Muis-, toetsenbord- en controllerfunctionaliteit
+
+9. EA SPORTS™ Online
+
+10. Videokaart-chipsets
+
+11. Ondersteunde videokaart-chipsets
+
+12. Windows-versies
+
+13. Problemen met USB-apparaten oplossen 
+
+______________________________________________________________________________
+
+==========================================================
+1. Minimale systeemvereisten 
+==========================================================
+
+	2,4 GHz-processor (single-core)
+	512 MB RAM (1 GB voor Windows Vista™)
+	Met DirectX® 9.0c compatibele 3D grafische acceleratiekaart met 128 MB videogeheugen (moet ondersteuning bieden voor Shader Model 2.0 of hoger - zie Ondersteunde videokaart-chipsets in paragraaf 11)
+	DirectX® 9.0c-compatibele geluidskaart
+	Breedbandverbinding van minstens 512 Kbps voor online spelen
+	MS-compatibele muis
+	Toetsenbord
+	Opmerking: 16-bits kleuren worden niet ondersteund.
+
+Voor disc-gebruikers:
+	5.9 GB aan vrije ruimte op de harde schijf voor DVD-format     
+	   En extra ruimte vereist voor bewaarde games en DirectX® 9.0c installatie
+	8x of snellere DVD-ROM drive
+
+Voor EA Store-gebruikers:
+	16.8 GB aan vrije ruimte op de harde schijf voor DD-format        
+	   En extra ruimte vereist voor bewaarde games en DirectX® 9.0c installatie
+
+Vereiste besturingssystemen:
+	Windows XP SP2 of Windows Vista™
+	Opmerking: Windows 95, Windows 98, Windows 2000, Windows ME en Windows NT 4.0 worden niet ondersteund.
+
+Vereiste software:
+	DirectX® 9.0c
+
+============================================================
+2. Het spel installeren 
+============================================================
+
+a.) FIFA 09 installeren
+
+Windows (installatie vanaf disc):
+ * Plaats de disc in het dvd-romstation en volg de instructies op het scherm.
+ * Als je het spel hebt geïnstalleerd, kun je het starten vanuit het menu Start van Windows. 
+ * In Windows Vista™ worden spellen in het menu Start bij Games weergegeven. In oudere Windows-versies staan ze in het menu Start > Programma's (of Alle Programma's).
+
+Windows (EA Store-gebruikers):
+ * Als je het spel hebt gedownload met EA Download Manager, klik je op het installatiepictogram dat wordt weergegeven en volg je de instructies op het scherm.
+ * Start het spel (na installatie) direct vanuit EA Download Manager.
+
+In het klassieke menu Start van Windows Vista™ worden spellen weergegeven in het menu Start > Programma's > Games > Games Explorer.
+
+b.) Installatie digitale retail
+
+Voor instructies over het installeren van de game, of over het downloaden en installeren van een extra exemplaar van de game, gelieve contact op te nemen met de 
+online winkel waarbij je deze game hebt gekocht.
+
+Opmerking: voor tips, patches en extra informatie over de game, bezoek www.electronicarts.nl of www.electronicarts.be; www.eastore.nl of www.eastore.be.
+
+c) Als het automatische opstartscherm niet verschijnt
+
+Als het automatische opstartscherm niet verschijnt (bijvoorbeeld omdat de automatische afspeeloptie is uitgeschakeld), kun je het programma installeren door te dubbelklikken op AUTORUN.EXE. Dit bestand bevindt zich in de hoofdmap van de dvd.
+
+============================================================
+3. DirectX® 9.0c
+============================================================
+
+DirectX® 9.0c wordt geïnstalleerd als onderdeel van de EA SPORTS™ FIFA 09-installatie.
+
+a) DirectX® rechtstreeks vanaf de dvd installeren 
+
+FIFA 09 wordt geleverd met DirectX® 9.0c. Als je DirectX 9.0c handmatig wilt installeren, plaats je de dvd van FIFA 09 in het dvd-romstation en ga je naar de volgende locatie op de dvd: 
+
+"\DirectX\"
+
+Dubbelklik op DXSETUP.EXE om de installatie van DirectX® 9.0c te starten.
+
+b) DirectX® en ondersteunde hardware
+
+We raden je aan FIFA 09 uit te voeren met geluidskaarten en videokaarten die compatibel zijn met DirectX® 9.0c. 
+
+Zorg er ook voor dat je beschikt over de nieuwste versie van de stuurprogramma's (drivers) voor je geluidskaart en videokaart. Meestal kun je de stuurprogramma's downloaden van de website van de betreffende fabrikant of chipset. 
+
+============================================================
+4. FIFA 09 verwijderen
+============================================================
+
+Windows XP: verwijder FIFA 09 via Software in het Configuratiescherm. 
+Windows Vista™: verwijder FIFA 09 via Programma's en onderdelen in het Configuratiescherm.
+
+============================================================
+5. Geheugenvereisten
+============================================================
+
+a) Geheugenvereisten in Windows 
+
+Voor het uitvoeren van FIFA 09 is minimaal 512MB geheugen vereist (1 GB voor Windows Vista™). 
+
+Opmerking: Als er meer geheugen beschikbaar is, zal het spel op alle fronten beter presteren.
+
+b) Het spel uitvoeren in een veeleisende Windows-omgeving
+
+Electronic Arts™ streeft ernaar de beste gameplay-, beeld- en geluidskwaliteit te bieden. Hoewel we al het mogelijke hebben gedaan om ervoor te zorgen dat je FIFA 09 kunt uitvoeren met actieve Windows-toepassingen op de achtergrond, raden we toch aan andere programma's af te sluiten en indien mogelijk alleen FIFA 09 uit te voeren.
+
+c) Virtueel geheugen
+
+We raden je aan het besturingssysteem automatisch de hoeveelheid virtueel geheugen te laten bepalen.
+
+============================================================
+6. De spelprestaties verbeteren
+============================================================
+
+Je kunt de spelprestaties van FIFA 09 op een aantal manieren verbeteren: 
+
+a) Wijzig de resolutie bij Spelinstellingen in Mijn FIFA 09.
+b.) Verlaag het detailniveau bij Spelinstellingen in Mijn FIFA 09.
+c) Wijzig de shader-kwaliteit bij Spelinstellingen in Mijn FIFA 09.
+d.) Schakel de volgende opties uit (bij Spelinstellingen in Mijn FIFA 09):
+	3D-gras
+	Kwaliteit nabewerking
+	Scherptediepte
+	Scheidsrechter
+	Assistent-scheidsrechter
+e.) Schakel de radar uit onder Spelinstellingen.
+f.) Schakel het volume van het commentaar uit onder Spelinstellingen.
+
+============================================================
+7. Sneltoetsen
+============================================================
+
+Je kunt in het spel de volgende sneltoetsen gebruiken om bepaalde functies sneller op te roepen:
+
+F2=Tele-camera
+F3=Actie-camera
+F4=Televisie-camera
+F5=Doel-tot-doel-camera
+F6=Zijlijn-camera
+F7=Dynamische camera
+F8=Breedbeeld-camera
+F9=Radar aan/uit
+
+ESC - Pauzemenu
+
+Je kunt in het spel de volgende sneltoetsen gebruiken vanuit het hoofdmenu om bepaalde functies sneller op te roepen:
+
+B = Speel als prof: Seizoenen
+C = Speltype Uitdaging
+K = Aftrap: Team
+M = Speltype Coach
+O = Online speltypen
+S = Wedstrijdinstellingen
+T = Speltype Toernooien
+
+============================================================
+8. Muis-, toetsenbord- en controllerfunctionaliteit
+============================================================
+
+Je kunt de muis, het toetsenbord of een controller gebruiken om te navigeren in de interface.
+
+Als je in het scherm bent waarin je de besturing bepaalt, moet je het besturingsapparaat dat je wilt gebruiken tijdens het spelen verplaatsen naar de linker- of rechterkant. Op die manier kies je ook een team. 
+
+Het is mogelijk dat je de controller opnieuw moet kalibreren in Windows om ervoor te zorgen dat het spel het apparaat op de juiste manier herkent.
+
+Als je tijdens een wedstrijd het pauzemenu wilt oproepen, druk je op de startknop van je gamepad (als je gamepad er een heeft) of op de ESC-toets.
+
+In het scherm Besturing van Mijn FIFA 09 kun je alle gamepadinstellingen volledig aanpassen! Als je met een gamepad speelt dat alleen digitaal kan worden gebruikt, moet je de instelling voor Speler bewegen niet wijzigen in Analoog. Het spelen verloopt dan mogelijk niet zoals verwacht.
+
+Het gebruik van een 360º-graden dual analoge gamepad zoals de Logitech Dual Action wordt aanbevolen voor volledige functionaliteit. 
+
+In FIFA 09 kun je ook je muis gebruiken om gameplay-acties te besturen. Je kunt een muis met maximaal 5 knoppen gebruiken. In het scherm Besturing kun je de besturing instellen.
+
+De volgende gamepads worden ook ondersteund:
+
+Logitech® 
+
+Logitech® ChillStream™ 
+Logitech® Cordless Rumblepad™ 2 
+Logitech® Rumblepad™ 2 Vibration Feedback Gamepad 
+Logitech® Dual Action™ Gamepad 
+Logitech® Cordless RumblePad™ 
+
+Saitek 
+
+P3000 Wireless Pad and Docking Station 
+P2900 Wireless Pad 
+P2600 Rumble Pad 
+P2500 Rumble Pad 
+P990 Dual Analog Pad 
+P880 Dual Analog Pad 
+
+Thrustmaster 
+
+Dual Trigger 3-in-1 Rumble Pad
+Dual Trigger 2-in-1 Rumble Force 
+Rechargeable Wireless 2-in-1 Dual Trigger 
+2-in-1 Dual Trigger Gamepad 
+Wireless Dual Trigger Gamepad 
+FireStorm Dual Power 3 
+FireStorm Wireless Gamepad 
+FireStorm Dual Analog 3 
+T-wireless 3-in-1
+Run'n'Drive 3-in-1 Rumble Force
+Run'n'Drive Wireless 3-in-1 
+
+hama®
+
+hama® Black Force
+hama® Air Grip
+hama® Whitestorm
+
+Speedlink
+
+D-Struct wireless gamepad
+Thunderstrike gamepad
+Strike3 gamepad
+
+Microsoft 
+
+Xbox 360™ Controller for Windows® (vereiste stuurprogrammaversie is 6.0.5435.0 van 20 mei 2006, of later)	 
+
+**OPMERKING: Als je een ouder model toetsenbord gebruikt, kun je mogelijk niet op twee toetsen tegelijk drukken.	
+	Je kunt de spelers en acties in FIFA 09 dan niet goed besturen.
+**OPMERKING: Als je een controller zonder analoge joysticks gebruikt, kun je niet alle functies van het spel gebruiken. 
+**OPMERKING: Uit gebruikerservaringen blijkt dat bij gebruik van de Saitek P2600 Rumble Pad met het meest recente stuurprogramma er gameplay-problemen optreden. Gebruik generieke Windows-stuurprogramma's voor de besturing van spelletjes om problemen te voorkomen.
+
+============================================================
+9. EA SPORTS™ Online
+============================================================
+a)	EA SPORTS™ Online-diensten
+
+Meld je vandaag nog aan bij EA SPORTS™ Online om zelf de mooiste online gaming-ervaring mee te maken 
+
+Je carrière
+Je bent een online atleet! Ga online en speel mee om aan je statistieken te werken. Verbeter je positie in het online klassement en zie hoe je online carrière door de jaren heen verloopt! Je vaardigheidsniveau geeft aan hoe goed je kunt spelen. Voor je het weet, ben jij de populairste tegenstander - of het belangrijkste doelwit - op internet!
+
+Matchup
+Het is nog nooit zo makkelijk geweest om je favoriete EA SPORTS™-titel online te spelen! Met 'Matchup' is het vinden van een tegenstander online snel en eenvoudig. Zoek een andere gebruiker van een vergelijkbaar niveau of ga ervoor en daag een gebruiker uit die volgens de ranglijst een van de besten is!  
+
+Wedstrijden voor het klassement
+Speel volgens de regels. De officiële EA SPORTS™ Online-regels voor online gaming zorgen ervoor dat iedereen die deelneemt aan een wedstrijd voor het klassement, met dezelfde spelopties speelt. Als je je eigen voorkeuren wilt gebruiken, dan maak je gewoon zelf een wedstrijd. Als je 'Voor het klassement' selecteert, kun je onmiddellijk beginnen met spelen.
+
+Klassementen
+Wie staat het hoogst in het klassement? En wie is de beste online atleet van de EA SPORTS™-community? Het nieuwe klassementensysteem volgt de beste teams en gamers op de voet aan de hand van uitgebreide statistische gegevens.
+
+b)	Vereisten voor EA SPORTS™ Online
+
+a. Juiste instellingen van firewalls
+Als je een firewall hebt geïnstalleerd en je online wilt spelen, moeten de volgende TCP/IP-poorten open staan in uitgaande richting:
+
+	HTTP			80   	TCP/IP
+	HTTPS			443   	TCP/IP
+	Peer-to-peer-verbinding	3659		TCP/IP
+	Roomsvr			30440-30449  	TCP/IP
+	
+De volgende UDP-poorten moeten open staan voor gamepackets, zowel voor uitgaande als inkomende verbindingen:
+
+	Gamepackets 	3658  UDP
+	Nieuwsregel	9570  UDP
+
+============================================================
+10. Videokaart-chipsets
+============================================================
+
+Als je in FIFA 09 problemen ondervindt met je videokaart, download dan de nieuwste stuurprogramma's (drivers) van de website van de kaartfabrikant. Als dat niet helpt, gebruik dan de nieuwste stuurprogramma's van de fabrikant van de chipset waar je videokaart mee werkt. Die chipset is een speciale voor grafische processen ontworpen bundel chips die op je videokaart is geplaatst. Als je in de handleiding van je videokaart of op de website van de kaartfabrikant geen informatie over die chipset vindt, kijk dan goed op de kaart zelf of je ergens op een chip de naam van de chipfabrikant ziet staan.
+
+============================================================
+11. Ondersteunde videokaart-chipsets
+============================================================
+
+Aanbevolen chipsets:
+NVIDIA GeForce® 6xxx-serie (6600 of hoger)
+NVIDIA GeForce® 7xxx-serie
+NVIDIA GeForce® 8xxx-serie
+NVIDIA GeForce® 9xxx-serie
+ATI Radeon™ 9xxx-serie (9800 Pro of hoger)
+ATI Radeon™ X300
+ATI Radeon™ X550
+ATI Radeon™ X600
+ATI Radeon™ X700
+ATI Radeon™ X800/850
+ATI Radeon™ X1300
+ATI Radeon™ X1600
+ATI Radeon™ X1800
+ATI Radeon™ X1900
+ATI Radeon™ X1950
+ATI Radeon™ HD 2xxx-serie
+ATI Radeon™ HD 3xxx-serie
+ATI Radeon™ HD 48xx-serie
+
+***OPMERKINGEN: *Je kunt dit spel misschien spelen op een laptop, maar houd er rekening mee dat de chipsets van laptops niet zijn getest en dus niet worden ondersteund.
+	 *NVIDIA GeForce® MX-serie wordt niet ondersteund.
+	 *In Windows Vista™ ondersteunt FIFA 09 alleen met DirectX® 9 compatibele kaarten.
+	 *In Windows Vista™ kunnen tijdens het uitvoeren van FIFA 09 prestatieproblemen optreden bij het gebruik van sommige videokaarten.
+	 *Videokaarten moeten ondersteuning voor Shader Model 2.0 of hoger.
+
+Als je problemen ondervindt, raden we je aan de nieuwste stuurprogramma's (drivers) te downloaden van de website van de kaart- of chipsetfabrikant.
+
+============================================================
+12. Windows-versies
+============================================================
+
+FIFA 09 ondersteunt Windows XP SP2 en Windows Vista™. 
+
+*OPMERKING: Je kunt het spel alleen goed installeren onder Windows XP SP2/Windows Vista™, als je je aanmeldt als beheerder op je computer. Raadpleeg de documentatie van Windows XP SP2/Windows Vista™ voor meer informatie.
+
+============================================================
+13. Problemen met USB-apparaten oplossen 
+============================================================
+
+Bij het gebruik van USB-apparaten worden mogelijk onbedoelde menuselecties gemaakt tijdens het spelen van FIFA 09. Om dit probleem op te lossen, moet je controleren of alle USB-apparaten die op de computer zijn aangesloten, goed zijn geïnstalleerd met de stuurprogramma's die door de fabrikant zijn geleverd (ook degene die je niet nodig hebt om FIFA 09 te spelen). 
+
+Als je voor bepaalde apparaten niet beschikt over de juiste stuurprogramma's van de fabrikant, kun je deze apparaten uitschakelen in het venster Apparaatbeheer van Windows. Klik hiervoor op Start en selecteer Instellingen en Configuratiescherm. Dubbelklik daarna op het pictogram Systeem. Ga naar het tabblad Hardware en klik op Apparaatbeheer. Selecteer de optie Help in het menu Actie van Apparaatbeheer voor meer informatie over het gebruik van Apparaatbeheer.

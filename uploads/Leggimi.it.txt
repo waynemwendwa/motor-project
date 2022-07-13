@@ -1,0 +1,458 @@
+============================================================
+FIFA 09 LEGGIMI
+Ultimo aggiornamento 31-08-2008
+============================================================
+
+_________________________________________________________________________
+
+Grazie per aver acquistato EA SPORTS™ FIFA 09. Questo file Leggimi
+contiene informazioni sulle caratteristiche non descritte nel manuale,
+come pure approfondimenti su determinati argomenti già trattati nelle 
+sue pagine. Questo file Leggimi, infine, offre utili informazioni relative 
+a problemi noti, difficoltà nella modalità multigiocatore e problemi hardware.
+
+Il contenuto dei siti web i cui collegamenti sono elencati in questo 
+documento può sfuggire al controllo di Electronic Arts™.
+_________________________________________________________________________
+
+NOTE: Windows è un marchio registrato di Microsoft Corporation negli Stati 
+Uniti e negli altri paesi.
+
+
+============================================================
+SOMMARIO
+============================================================
+
+1.  Requisiti minimi di sistema
+
+2.  Installare il gioco 
+    a.) Installare FIFA 09
+    b.) Installazione distribuzione digitale
+    c.) Se la funzione di AutoPlay è disattivata
+
+3.  DirectX® 9.0c
+    a.) Installare DirectX® direttamente da DVD 
+    b.) DirectX® e hardware supportato
+  
+4. Rimuovere FIFA 09
+
+5. Requisiti di memoria
+    a.) Requisiti di memoria in ambiente Windows
+    b.) Eseguire il gioco con il sistema operativo Windows in uso 
+	intensivo
+    c.) Memoria virtuale
+
+6. Migliorare la velocità di gioco
+
+7. Tasti di scelta rapida
+
+8. Uso di mouse, tastiera e dispositivo di controllo
+
+9. EA SPORTS™ Online
+
+10. Note sui chipset delle schede video
+
+11. Chipset delle schede video supportati
+
+12. Note su Windows
+
+13. Problemi con i dispositivi USB 
+
+______________________________________________________________________________
+
+============================================================
+1. Requisiti minimi di sistema 
+============================================================
+
+	Processore a 2,4 GHz (core singolo)
+	512 MB di RAM (1 GB richiesto per Windows Vista™)
+	Scheda acceleratrice 3D con 128 MB di memoria o equivalente, compatibile 
+	con DirectX® 9.0c (con supporto per Shader Model 2.0 o superiore, consulta 
+	la sezione 11 sui chipset supportati)
+	Scheda audio compatibile con DirectX® 9.0c
+	Connessione a banda larga (512 kbps o superiore) per il gioco online
+	Mouse compatibile Microsoft
+	Tastiera
+	La modalità a 16 bit non è supportata
+
+Per gli utenti con supporto ottico:
+	5.9 GB di spazio libero su disco fisso per il formato DVD
+	   Spazio aggiuntivo richiesto per salvare le partite e per l'installazione di DirectX® 9.0c
+	Unità DVD-ROM 8x o superiore
+
+Per gli utenti di EA Store:
+	16.8 GB di spazio libero su disco fisso per il formato DD
+	   Spazio aggiuntivo richiesto per salvare le partite e per l'installazione di DirectX® 9.0c
+
+Sistema operativo:
+	Windows XP SP2 o Windows Vista™
+	Windows 95, Windows 98, Windows 2000, Windows ME e Windows NT 4.0 non sono supportati.
+
+Software richiesto:
+	DirectX® 9.0c
+
+============================================================
+2.  Installare il gioco 
+============================================================
+
+a.) Installare FIFA 09
+
+Windows (utenti supporto ottico):
+ * Inserisci il supporto ottico nell'unità DVD-ROM e segui le istruzioni 
+	visualizzate su schermo.
+ * Dopo avere completato l'installazione del gioco è possibile avviarlo 
+	tramite il menu Start. 
+ * I giochi su Windows Vista™ si trovano nel menu Start > Giochi e nelle 
+	precedenti versioni di Windows nel menu Start > Programmi 
+	(o Tutti i programmi ).
+
+Windows (utenti EA Store):
+ * Dopo avere scaricato il gioco con EA Download Manager, è necessario 
+cliccare sull'icona di installazione che comparirà e seguire le istruzioni
+visualizzate su schermo 
+   .
+ * Avviare il gioco (dopo l'installazione) direttamente da EA Download Manager.
+
+Nel menu Start stile Windows Vista™ Classic, i giochi si trovano in 
+Start > Tutti i programmi > Giochi.
+
+b.) Installazione del download digitale
+
+Contatta il rivenditore digitale attraverso cui hai acquistato il gioco per sapere 
+come installarlo o scaricarne e reinstallarne un'altra copia.
+
+Nota: se desideri informazioni aggiuntive su un gioco oppure consigli e patch, 
+visita www.electronicarts.it o www.eastore.it.
+
+c.) Se la funzione di AutoPlay è disabilitata
+
+Se, per qualunque motivo, la funzione di AutoPlay non è attiva, puoi installare 
+il programma eseguendo direttamente il file AUTORUN.EXE dalla cartella principale
+del DVD.
+
+============================================================
+3.  DirectX® 9.0c
+============================================================
+
+DirectX® 9.0c verrà installato insieme a EA SPORTS™ FIFA 09.
+
+a.) Installare DirectX® direttamente da DVD 
+
+Sul DVD di FIFA 09 è presente DirectX® 9.0c. Qualora tu voglia installarlo 
+manualmente, controlla che il DVD di FIFA 09 sia presente nell'unità 
+DVD-ROM e quindi seleziona il seguente percorso sul DVD: 
+
+\DirectX\.
+
+Clicca due volte sul file DXSETUP.EXE per avviare l'installazione di 
+DirectX® 9.0c.
+
+b.) DirectX® e hardware supportato
+
+Ti consigliamo di giocare a FIFA 09 con schede audio e video compatibili 
+con DirectX® 9.0c. 
+
+Ti suggeriamo di aggiornare i driver della tua scheda audio o video, installando 
+quello più aggiornato presente sul sito della casa produttrice della scheda o 
+del chipset.  
+
+============================================================
+4. Rimuovere FIFA 09
+============================================================
+
+In Windows XP, puoi rimuovere FIFA 09 tramite "Installazione applicazioni"
+nel Pannello di controllo.
+In Windows Vista™, puoi rimuovere FIFA 09 tramite " Programmi e funzionalità"
+nel Pannello di controllo.
+
+============================================================
+5. Requisiti di memoria
+============================================================
+
+a.) Requisiti di memoria in ambiente Windows 
+
+FIFA 09 richiede un minimo di 512 MB di RAM per l'esecuzione (1 GB richiesto 
+per Windows Vista™). 
+
+Nota: se è disponibile più memoria, le prestazioni di gioco ne trarranno un 
+beneficio generale.
+
+b.) Eseguire il gioco con il sistema operativo Windows in uso intensivo
+
+Noi di Electronic Arts™ ci impegniamo a fondo per fornirti il meglio dal 
+punto di vista dell'audio, della grafica e della giocabilità: per questo
+sfruttiamo sempre al massimo 
+le prestazioni del computer. Anche se abbiamo fatto il possibile per far
+sì che FIFA 09 sia in grado di funzionare contemporaneamente ad altre 
+applicazioni di Windows, ti consigliamo, se possibile, di chiudere gli
+altri programmi in esecuzione (antivirus compresi) prima di avviare FIFA 09.
+
+c.) Memoria virtuale
+
+Ti consigliamo di lasciare al sistema la gestione automatica della memoria
+virtuale.
+
+============================================================
+6. Migliorare la velocità di gioco
+============================================================
+
+Ci sono diversi sistemi che ti permettono di rendere più veloce la tua
+esperienza di gioco con FIFA 09: 
+
+a.) Diminuisci la risoluzione nella schermata delle impostazioni di
+gioco in Il mio FIFA 09.
+b.) Diminuisci il livello di dettaglio nella schermata delle
+impostazioni di gioco in Il mio FIFA 09.
+c.) Diminuisci la qualità degli shader nella schermata delle
+impostazioni di gioco in Il mio FIFA 09.
+d.) Disattiva (nella schermata delle impostazioni di gioco in
+Il mio FIFA 09):
+	Erba 3D
+	Qualità post-elaborazione
+	Profondità di campo
+	Arbitro
+	Guardalinee
+e.) Disattiva il radar nella schermata delle impostazioni di gioco.
+f.) Riduci al minimo il volume della telecronaca nella schermata
+delle impostazioni di gioco.
+
+============================================================
+7. Tasti di scelta rapida
+============================================================
+
+I seguenti tasti di scelta rapida si possono usare per accedere
+rapidamente ad alcune funzioni di gioco:
+
+F2 = Visuale da lontano
+F3 = Visuale azione
+F4 = Visuale televisiva
+F5 = Visuale da fondo campo
+F6 = Visuale da bordo campo
+F7 = Visuale dinamica
+F8 = Visuale 16:9
+F9 = Radar sì/no
+
+Esc - Menu di pausa
+
+I seguenti tasti di scelta rapida si possono usare dal menu principale
+per accedere a certe sezioni del gioco più velocemente:
+
+B = Stagioni Professionista
+C = Modalità Sfida
+K = Calcio d'inizio: Squadra
+M = Modalità Allenatore
+O = Modalità di gioco online
+S = Impostazioni di gioco
+T = Modalità Torneo
+
+============================================================
+8. Uso di mouse, tastiera e dispositivo di controllo
+============================================================
+
+Puoi spostarti nell'interfaccia di gioco usando la tastiera, il mouse
+o il dispositivo di controllo.
+
+Quando sei nella schermata di selezione della squadra, devi spostare 
+a sinistra o a destra l'immagine del dispositivo di controllo che intendi
+usare per scegliere la tua formazione. 
+
+Potrebbe essere necessario effettuare la calibrazione del dispositivo di 
+controllo tramite Windows affinché il gioco lo rilevi in modo corretto.
+
+Per accedere ai menu di pausa durante il gioco, puoi premere il tasto Start 
+(se è presente sul tuo joypad), oppure premere Esc.
+
+Puoi riconfigurare i comandi secondo le tue preferenze utilizzando 
+l'apposita schermata, disponibile in Il mio FIFA 09. 
+Quando utilizzi dispositivi di controllo che supportano solo la modalità 
+digitale, è consigliabile non modificare il metodo di controllo per il 
+giocatore in analogico, in quanto potrebbe creare problemi durante il gioco.
+
+Per una migliore esperienza di gioco, consigliamo caldamente l'utilizzo di un 
+joypad con doppie levette analogiche a 360° (come il Dual Action di Logitech).
+
+FIFA 09 supporta inoltre l'utilizzo del mouse per il controllo delle azioni di gioco. 
+Possono essere utilizzati fino a 5 pulsanti del mouse (è possibile configurare i comandi 
+nella relativa schermata).
+
+Sono supportati i seguenti joypad:
+
+Logitech® 
+
+Logitech® ChillStream™ 
+Logitech® Cordless Rumblepad™ 2 
+Logitech® Rumblepad™ 2 Vibration Feedback Gamepad 
+Logitech® Dual Action™ Gamepad 
+Logitech® Cordless RumblePad™ 
+
+Saitek 
+
+P3000 Wireless Pad e Docking Station 
+P2900 Wireless Pad 
+P2600 Rumble Pad 
+P2500 Rumble Pad 
+P990 Dual Analog Pad 
+P880 Dual Analog Pad 
+
+Thrustmaster 
+
+Dual Trigger 3-in-1 Rumble Pad
+Dual Trigger 2-in-1 Rumble Force 
+Rechargeable Wireless 2-in-1 Dual Trigger 
+2-in-1 Dual Trigger Gamepad 
+Wireless Dual Trigger Gamepad 
+FireStorm Dual Power 3 
+FireStorm Wireless Gamepad 
+FireStorm Dual Analog 3
+T-wireless 3-in-1
+Run'n'Drive 3-in-1 Rumble Force
+Run'n'Drive Wireless 3-in-1 
+
+hama®
+
+hama® Black Force
+hama® Air Grip
+hama® Whitestorm
+
+Speedlink
+
+D-Struct wireless gamepad
+Thunderstrike gamepad
+Strike3 gamepad
+
+
+Microsoft 
+
+Controller Xbox 360™ per Windows® (la versione dei driver installati dev'essere la 
+6.0.5435.0 del 20 maggio 2006, o successiva)	 
+
+**NOTA: i modelli di tastiere più vecchi potrebbero non supportare la pressione 
+	simultanea di più di 2 tasti, limitando le tue possibilità di controllare 
+	azioni e giocatori in FIFA 09.
+**NOTA: i controller senza levette non sfruttano tutte le funzionalità presenti 
+	nel gioco. 
+**NOTA: gli utenti del Saitek P2600 Rumble Pad potrebbero riscontrare alcuni 
+	problemi utilizzando i driver più aggiornati. Per evitare qualsiasi problema
+	è necessario utilizzare i driver per i controller generici di Windows.
+
+
+============================================================
+9. EA SPORTS™ Online
+============================================================
+a.)	Servizi EA SPORTS™ Online
+
+Unisciti oggi a EA SPORTS™ Online e scopri l'esperienza di gioco online più esaltante! 
+
+La tua carriera
+Sei un atleta virtuale! Gioca e confrontati online per migliorare le tue statistiche
+e la tua classifica e far progredire la tua carriera! Il tuo Livello di abilità 
+determina invece le tue capacità in senso assoluto, facendo di te il protagonista 
+di tutte le sfide lanciate su Internet!
+
+Confronto
+Non è stato mai così facile giocare online con i tuoi titoli EA SPORTS™ preferiti! 
+Il confronto permette di individuare velocemente un avversario online. Potrai 
+trovare un altro membro con capacità simili, oppure puntare in alto e sfidare un 
+membro fra i migliori!   
+
+Partite classificate
+Gioca secondo le regole ufficiali. Le regole ufficiali di EA SPORTS™ Online 
+garantiscono che le classifiche siano sempre basate su un'uniformità delle opzioni 
+di gioco utilizzate. Crea una partita personalizzata in base alle tue preferenze,
+oppure seleziona Classificata e affronta la competizione.
+
+Classifiche
+Qual è il giocatore con la classifica migliore? E chi è il miglior atleta online 
+della comunità EA SPORTS™? I nuovi tabelloni registrano tutti i membri migliori, 
+relativamente a una grande varietà di statistiche.
+
+b.)	Requisiti EA SPORTS™ Online
+
+a. Firewall
+Nota che, se hai un firewall e vuoi giocare online, le seguenti porte TCP/IP
+devono essere aperte in uscita:
+
+	HTTP			80      	TCP/IP
+	HTTPS			443     	TCP/IP
+	Peer Game Connection	3659		TCP/IP
+	Roomsvr			30440-30449    	TCP/IP
+	
+Le seguenti porte UDP devono essere aperte per i pacchetti di gioco, in uscita
+e in entrata:
+
+	Pacchetti di gioco 	3658   UDP 
+	News Ticker	9570   UDP
+
+============================================================
+10. Note sui chipset delle schede video
+============================================================
+
+Se riscontri dei problemi con FIFA 09 e sei certo che la loro causa sia attribuibile
+alla scheda video, prova ad aggiornare i suoi driver, scaricando la versione più
+aggiornata disponibile dal sito della casa produttrice. Se il problema dovesse 
+persistere, prova con i driver più recenti distribuiti dal produttore del chipset
+montato sulla scheda video, vale a dire del chipset di elaborazione dei dati che si
+trova sulla sua superficie. Se non trovi alcuna informazione nel manuale della scheda
+video, o sul sito della casa produttrice, esamina la scheda alla ricerca del
+chipset che riporta il nome della casa produttrice.
+
+============================================================
+11. Chipset delle schede video supportati
+============================================================
+
+Chipset video consigliati:
+NVIDIA serie GeForce® 6xxx (6600 o superiore)
+NVIDIA serie GeForce® 7xxx
+NVIDIA serie GeForce® 8xxx
+NVIDIA serie GeForce® 9xxx
+ATI Radeon™ serie 9xxx (9800 Pro o superiore)
+ATI Radeon™ X300
+ATI Radeon™ X550
+ATI Radeon™ X600
+ATI Radeon™ X700
+ATI Radeon™ X800/850
+ATI Radeon™ X1300
+ATI Radeon™ X1600
+ATI Radeon™ X1800
+ATI Radeon™ X1900
+ATI Radeon™ X1950
+ATI Radeon™ HD serie 2xxx
+ATI Radeon™ HD serie 3xxx
+ATI Radeon™ HD serie 48xx
+
+***NOTA: *Le versioni di questi chipset per computer portatili potrebbero funzionare 
+	 correttamente, ma non sono ufficialmente supportate perché non sono state testate.
+	 *Schede della serie NVIDIA GeForce® MX non supportate.
+	 *Per l'esecuzione di FIFA 09 in ambiente Windows Vista™ sono supportate unicamente
+	  schede compatibili con DirectX® 9.
+	 *Eseguendo FIFA 09 in ambiente Windows Vista™ potrebbero verificarsi dei cali di 
+	  prestazioni con alcune schede grafiche.
+	 *Per le schede video è richiesto il supporto per Shader Model 2.0 o superiore.
+
+Se riscontri dei problemi, contatta la casa produttrice della tua scheda video o del chipset video, 
+per ottenere i driver aggiornati.
+
+============================================================
+12. Note su Windows
+============================================================
+
+FIFA 09 supporta Windows XP SP2 e Windows Vista™.  
+
+*NOTA: per installare correttamente il gioco con Windows XP SP2/Windows Vista™, devi disporre di accesso 
+a livello di amministratore al tuo computer. 
+Consulta la documentazione di Windows XP SP2/Windows Vista™ per ulteriori informazioni.
+
+============================================================
+13. Problemi con i dispositivi USB 
+============================================================
+
+I giocatori che utilizzano dispositivi USB potrebbero avere problemi durante la selezione 
+nei menu in FIFA 09. Per risolvere il problema, assicurati che tutte le periferiche USB 
+(incluse quelle non necessarie per giocare a FIFA 09) collegate al computer siano state 
+installate correttamente, utilizzando i driver forniti dalla casa produttrice. 
+
+In assenza dei driver forniti dalla casa produttrice, puoi provare a disattivare uno 
+di questi dispositivi attraverso Gestione periferiche di Windows. Per aprire Gestione 
+periferiche, clicca su Start > Impostazioni > Pannello di controllo e clicca due volte 
+sull'icona Sistema. Nella scheda Hardware, clicca su Gestione periferiche. Per informazioni 
+sull'utilizzo di Gestione Periferiche, clicca sul ? nel relativo menu Azione.

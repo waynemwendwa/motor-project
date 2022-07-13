@@ -1,0 +1,1980 @@
+    
+
+Exception intercepted on: Wed Jun 08 12:28:47 2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Exception Record (0x19f160):
+       Code  : 0xc0000005 (EXCEPTION_ACCESS_VIOLATION)
+       Flags : 0x0 (Continuable Exception)
+       Addr  : 0x400130 (HitmanContracts.exe)
+       Info  : 
+             : 0x8
+             : 0x400130
+       Parent: 0x0 (End-of-nesting)
+    
+
+    Processor Record:
+       Context Flags: 0x1007f
+    
+       Integer registers
+           Eax      : 0x0
+           Ebx      : 0x2ceae70
+           Ecx      : 0xadf01364
+           Edx      : 0xc90000
+           Esi      : 0x2cf6509
+           Edi      : 0x2ceae70
+    
+       Control registers
+           Ebp      : 0x7c8cd8
+           Eip      : 0x400130 (HitmanContracts.exe)
+           Esp      : 0x19f510
+           EFlags   : 0x10246
+           SegCs    : 0x23
+           SegSs    : 0x2b
+    
+       Segments
+           SegGs    : 0x2b
+           SegFs    : 0x53
+           SegEs    : 0x2b
+           SegDs    : 0x2b
+    
+       Debug registers
+           Dr0      : 0x0
+           Dr1      : 0x0
+           Dr2      : 0x0
+           Dr3      : 0x0
+           Dr6      : 0x0
+           Dr6      : 0x0
+    
+       Float registers
+           Control      : 0x7f
+           Status       : 0x120
+           Tag          : 0xffff
+           ErrorOffset  : 0x6c6633f3
+           ErrorSelector: 0x23
+           DataOffset   : 0x19f18c
+           DataSelector : 0x2b
+    
+
+Exception intercepted on: Wed Jun 08 12:28:48 2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Exception Record (0x19f160):
+       Code  : 0xc0000005 (EXCEPTION_ACCESS_VIOLATION)
+       Flags : 0x0 (Continuable Exception)
+       Addr  : 0x400130 (HitmanContracts.exe)
+       Info  : 
+             : 0x8
+             : 0x400130
+       Parent: 0x0 (End-of-nesting)
+    
+
+    Processor Record:
+       Context Flags: 0x1007f
+    
+       Integer registers
+           Eax      : 0x0
+           Ebx      : 0x2ceae70
+           Ecx      : 0xadf01364
+           Edx      : 0xc90000
+           Esi      : 0x2cf6509
+           Edi      : 0x2ceae70
+    
+       Control registers
+           Ebp      : 0x7c8cd8
+           Eip      : 0x400130 (HitmanContracts.exe)
+           Esp      : 0x19f510
+           EFlags   : 0x10246
+           SegCs    : 0x23
+           SegSs    : 0x2b
+    
+       Segments
+           SegGs    : 0x2b
+           SegFs    : 0x53
+           SegEs    : 0x2b
+           SegDs    : 0x2b
+    
+       Debug registers
+           Dr0      : 0x0
+           Dr1      : 0x0
+           Dr2      : 0x0
+           Dr3      : 0x0
+           Dr6      : 0x0
+           Dr6      : 0x0
+    
+       Float registers
+           Control      : 0x7f
+           Status       : 0x120
+           Tag          : 0xffff
+           ErrorOffset  : 0x6c6633f3
+           ErrorSelector: 0x23
+           DataOffset   : 0x19f18c
+           DataSelector : 0x2b
+    
+
+Exception intercepted on: Wed Jun 08 12:28:49 2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Exception Record (0x19f160):
+       Code  : 0xc0000005 (EXCEPTION_ACCESS_VIOLATION)
+       Flags : 0x0 (Continuable Exception)
+       Addr  : 0x400130 (HitmanContracts.exe)
+       Info  : 
+             : 0x8
+             : 0x400130
+       Parent: 0x0 (End-of-nesting)
+    
+
+    Processor Record:
+       Context Flags: 0x1007f
+    
+       Integer registers
+           Eax      : 0x0
+           Ebx      : 0x2ceae70
+           Ecx      : 0xadf01364
+           Edx      : 0xc90000
+           Esi      : 0x2cf6509
+           Edi      : 0x2ceae70
+    
+       Control registers
+           Ebp      : 0x7c8cd8
+           Eip      : 0x400130 (HitmanContracts.exe)
+           Esp      : 0x19f510
+           EFlags   : 0x10246
+           SegCs    : 0x23
+           SegSs    : 0x2b
+    
+       Segments
+           SegGs    : 0x2b
+           SegFs    : 0x53
+           SegEs    : 0x2b
+           SegDs    : 0x2b
+    
+       Debug registers
+           Dr0      : 0x0
+           Dr1      : 0x0
+           Dr2      : 0x0
+           Dr3      : 0x0
+           Dr6      : 0x0
+           Dr6      : 0x0
+    
+       Float registers
+           Control      : 0x7f
+           Status       : 0x120
+           Tag          : 0xffff
+           ErrorOffset  : 0x6c6633f3
+           ErrorSelector: 0x23
+           DataOffset   : 0x19f18c
+           DataSelector : 0x2b
+    
+
+Exception intercepted on: Wed Jun 08 12:28:50 2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Exception Record (0x19f160):
+       Code  : 0xc0000005 (EXCEPTION_ACCESS_VIOLATION)
+       Flags : 0x0 (Continuable Exception)
+       Addr  : 0x400130 (HitmanContracts.exe)
+       Info  : 
+             : 0x8
+             : 0x400130
+       Parent: 0x0 (End-of-nesting)
+    
+
+    Processor Record:
+       Context Flags: 0x1007f
+    
+       Integer registers
+           Eax      : 0x0
+           Ebx      : 0x2ceae70
+           Ecx      : 0xadf01364
+           Edx      : 0xc90000
+           Esi      : 0x2cf6509
+           Edi      : 0x2ceae70
+    
+       Control registers
+           Ebp      : 0x7c8cd8
+           Eip      : 0x400130 (HitmanContracts.exe)
+           Esp      : 0x19f510
+           EFlags   : 0x10246
+           SegCs    : 0x23
+           SegSs    : 0x2b
+    
+       Segments
+           SegGs    : 0x2b
+           SegFs    : 0x53
+           SegEs    : 0x2b
+           SegDs    : 0x2b
+    
+       Debug registers
+           Dr0      : 0x0
+           Dr1      : 0x0
+           Dr2      : 0x0
+           Dr3      : 0x0
+           Dr6      : 0x0
+           Dr6      : 0x0
+    
+       Float registers
+           Control      : 0x7f
+           Status       : 0x120
+           Tag          : 0xffff
+           ErrorOffset  : 0x6c6633f3
+           ErrorSelector: 0x23
+           DataOffset   : 0x19f18c
+           DataSelector : 0x2b
+    
+
+Exception intercepted on: Wed Jun 08 12:33:09 2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Exception Record (0x19f160):
+       Code  : 0xc0000005 (EXCEPTION_ACCESS_VIOLATION)
+       Flags : 0x0 (Continuable Exception)
+       Addr  : 0x400130 (HitmanContracts.exe)
+       Info  : 
+             : 0x8
+             : 0x400130
+       Parent: 0x0 (End-of-nesting)
+    
+
+    Processor Record:
+       Context Flags: 0x1007f
+    
+       Integer registers
+           Eax      : 0x0
+           Ebx      : 0x2de5e70
+           Ecx      : 0xa1bfef88
+           Edx      : 0x2c60000
+           Esi      : 0x2df1509
+           Edi      : 0x2de5e70
+    
+       Control registers
+           Ebp      : 0x7c8cd8
+           Eip      : 0x400130 (HitmanContracts.exe)
+           Esp      : 0x19f510
+           EFlags   : 0x10246
+           SegCs    : 0x23
+           SegSs    : 0x2b
+    
+       Segments
+           SegGs    : 0x2b
+           SegFs    : 0x53
+           SegEs    : 0x2b
+           SegDs    : 0x2b
+    
+       Debug registers
+           Dr0      : 0x0
+           Dr1      : 0x0
+           Dr2      : 0x0
+           Dr3      : 0x0
+           Dr6      : 0x0
+           Dr6      : 0x0
+    
+       Float registers
+           Control      : 0x7f
+           Status       : 0x120
+           Tag          : 0xffff
+           ErrorOffset  : 0x6c7e33f3
+           ErrorSelector: 0x23
+           DataOffset   : 0x19f18c
+           DataSelector : 0x2b
+    
+
+Exception intercepted on: Wed Jun 08 12:33:10 2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Exception Record (0x19f160):
+       Code  : 0xc0000005 (EXCEPTION_ACCESS_VIOLATION)
+       Flags : 0x0 (Continuable Exception)
+       Addr  : 0x400130 (HitmanContracts.exe)
+       Info  : 
+             : 0x8
+             : 0x400130
+       Parent: 0x0 (End-of-nesting)
+    
+
+    Processor Record:
+       Context Flags: 0x1007f
+    
+       Integer registers
+           Eax      : 0x0
+           Ebx      : 0x2de5e70
+           Ecx      : 0xa1bfef88
+           Edx      : 0x2c60000
+           Esi      : 0x2df1509
+           Edi      : 0x2de5e70
+    
+       Control registers
+           Ebp      : 0x7c8cd8
+           Eip      : 0x400130 (HitmanContracts.exe)
+           Esp      : 0x19f510
+           EFlags   : 0x10246
+           SegCs    : 0x23
+           SegSs    : 0x2b
+    
+       Segments
+           SegGs    : 0x2b
+           SegFs    : 0x53
+           SegEs    : 0x2b
+           SegDs    : 0x2b
+    
+       Debug registers
+           Dr0      : 0x0
+           Dr1      : 0x0
+           Dr2      : 0x0
+           Dr3      : 0x0
+           Dr6      : 0x0
+           Dr6      : 0x0
+    
+       Float registers
+           Control      : 0x7f
+           Status       : 0x120
+           Tag          : 0xffff
+           ErrorOffset  : 0x6c7e33f3
+           ErrorSelector: 0x23
+           DataOffset   : 0x19f18c
+           DataSelector : 0x2b
+    
+
+Exception intercepted on: Wed Jun 08 12:33:10 2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Exception Record (0x19f160):
+       Code  : 0xc0000005 (EXCEPTION_ACCESS_VIOLATION)
+       Flags : 0x0 (Continuable Exception)
+       Addr  : 0x400130 (HitmanContracts.exe)
+       Info  : 
+             : 0x8
+             : 0x400130
+       Parent: 0x0 (End-of-nesting)
+    
+
+    Processor Record:
+       Context Flags: 0x1007f
+    
+       Integer registers
+           Eax      : 0x0
+           Ebx      : 0x2de5e70
+           Ecx      : 0xa1bfef88
+           Edx      : 0x2c60000
+           Esi      : 0x2df1509
+           Edi      : 0x2de5e70
+    
+       Control registers
+           Ebp      : 0x7c8cd8
+           Eip      : 0x400130 (HitmanContracts.exe)
+           Esp      : 0x19f510
+           EFlags   : 0x10246
+           SegCs    : 0x23
+           SegSs    : 0x2b
+    
+       Segments
+           SegGs    : 0x2b
+           SegFs    : 0x53
+           SegEs    : 0x2b
+           SegDs    : 0x2b
+    
+       Debug registers
+           Dr0      : 0x0
+           Dr1      : 0x0
+           Dr2      : 0x0
+           Dr3      : 0x0
+           Dr6      : 0x0
+           Dr6      : 0x0
+    
+       Float registers
+           Control      : 0x7f
+           Status       : 0x120
+           Tag          : 0xffff
+           ErrorOffset  : 0x6c7e33f3
+           ErrorSelector: 0x23
+           DataOffset   : 0x19f18c
+           DataSelector : 0x2b
+    
+
+Exception intercepted on: Wed Jun 08 12:33:11 2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Exception Record (0x19f160):
+       Code  : 0xc0000005 (EXCEPTION_ACCESS_VIOLATION)
+       Flags : 0x0 (Continuable Exception)
+       Addr  : 0x400130 (HitmanContracts.exe)
+       Info  : 
+             : 0x8
+             : 0x400130
+       Parent: 0x0 (End-of-nesting)
+    
+
+    Processor Record:
+       Context Flags: 0x1007f
+    
+       Integer registers
+           Eax      : 0x0
+           Ebx      : 0x2de5e70
+           Ecx      : 0xa1bfef88
+           Edx      : 0x2c60000
+           Esi      : 0x2df1509
+           Edi      : 0x2de5e70
+    
+       Control registers
+           Ebp      : 0x7c8cd8
+           Eip      : 0x400130 (HitmanContracts.exe)
+           Esp      : 0x19f510
+           EFlags   : 0x10246
+           SegCs    : 0x23
+           SegSs    : 0x2b
+    
+       Segments
+           SegGs    : 0x2b
+           SegFs    : 0x53
+           SegEs    : 0x2b
+           SegDs    : 0x2b
+    
+       Debug registers
+           Dr0      : 0x0
+           Dr1      : 0x0
+           Dr2      : 0x0
+           Dr3      : 0x0
+           Dr6      : 0x0
+           Dr6      : 0x0
+    
+       Float registers
+           Control      : 0x7f
+           Status       : 0x120
+           Tag          : 0xffff
+           ErrorOffset  : 0x6c7e33f3
+           ErrorSelector: 0x23
+           DataOffset   : 0x19f18c
+           DataSelector : 0x2b
+    
+
+Exception intercepted on: Wed Jun 08 12:34:31 2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Exception Record (0x19f160):
+       Code  : 0xc0000005 (EXCEPTION_ACCESS_VIOLATION)
+       Flags : 0x0 (Continuable Exception)
+       Addr  : 0x400130 (HitmanContracts.exe)
+       Info  : 
+             : 0x8
+             : 0x400130
+       Parent: 0x0 (End-of-nesting)
+    
+
+    Processor Record:
+       Context Flags: 0x1007f
+    
+       Integer registers
+           Eax      : 0x0
+           Ebx      : 0x2ebce70
+           Ecx      : 0x798a7653
+           Edx      : 0x2b40000
+           Esi      : 0x2ec8509
+           Edi      : 0x2ebce70
+    
+       Control registers
+           Ebp      : 0x7c8cd8
+           Eip      : 0x400130 (HitmanContracts.exe)
+           Esp      : 0x19f510
+           EFlags   : 0x10246
+           SegCs    : 0x23
+           SegSs    : 0x2b
+    
+       Segments
+           SegGs    : 0x2b
+           SegFs    : 0x53
+           SegEs    : 0x2b
+           SegDs    : 0x2b
+    
+       Debug registers
+           Dr0      : 0x0
+           Dr1      : 0x0
+           Dr2      : 0x0
+           Dr3      : 0x0
+           Dr6      : 0x0
+           Dr6      : 0x0
+    
+       Float registers
+           Control      : 0x7f
+           Status       : 0x120
+           Tag          : 0xffff
+           ErrorOffset  : 0x6c7e33f3
+           ErrorSelector: 0x23
+           DataOffset   : 0x19f18c
+           DataSelector : 0x2b
+    
+
+Exception intercepted on: Wed Jun 08 12:34:32 2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Exception Record (0x19f160):
+       Code  : 0xc0000005 (EXCEPTION_ACCESS_VIOLATION)
+       Flags : 0x0 (Continuable Exception)
+       Addr  : 0x400130 (HitmanContracts.exe)
+       Info  : 
+             : 0x8
+             : 0x400130
+       Parent: 0x0 (End-of-nesting)
+    
+
+    Processor Record:
+       Context Flags: 0x1007f
+    
+       Integer registers
+           Eax      : 0x0
+           Ebx      : 0x2ebce70
+           Ecx      : 0x798a7653
+           Edx      : 0x2b40000
+           Esi      : 0x2ec8509
+           Edi      : 0x2ebce70
+    
+       Control registers
+           Ebp      : 0x7c8cd8
+           Eip      : 0x400130 (HitmanContracts.exe)
+           Esp      : 0x19f510
+           EFlags   : 0x10246
+           SegCs    : 0x23
+           SegSs    : 0x2b
+    
+       Segments
+           SegGs    : 0x2b
+           SegFs    : 0x53
+           SegEs    : 0x2b
+           SegDs    : 0x2b
+    
+       Debug registers
+           Dr0      : 0x0
+           Dr1      : 0x0
+           Dr2      : 0x0
+           Dr3      : 0x0
+           Dr6      : 0x0
+           Dr6      : 0x0
+    
+       Float registers
+           Control      : 0x7f
+           Status       : 0x120
+           Tag          : 0xffff
+           ErrorOffset  : 0x6c7e33f3
+           ErrorSelector: 0x23
+           DataOffset   : 0x19f18c
+           DataSelector : 0x2b
+    
+
+Exception intercepted on: Wed Jun 08 12:34:33 2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Exception Record (0x19f160):
+       Code  : 0xc0000005 (EXCEPTION_ACCESS_VIOLATION)
+       Flags : 0x0 (Continuable Exception)
+       Addr  : 0x400130 (HitmanContracts.exe)
+       Info  : 
+             : 0x8
+             : 0x400130
+       Parent: 0x0 (End-of-nesting)
+    
+
+    Processor Record:
+       Context Flags: 0x1007f
+    
+       Integer registers
+           Eax      : 0x0
+           Ebx      : 0x2ebce70
+           Ecx      : 0x798a7653
+           Edx      : 0x2b40000
+           Esi      : 0x2ec8509
+           Edi      : 0x2ebce70
+    
+       Control registers
+           Ebp      : 0x7c8cd8
+           Eip      : 0x400130 (HitmanContracts.exe)
+           Esp      : 0x19f510
+           EFlags   : 0x10246
+           SegCs    : 0x23
+           SegSs    : 0x2b
+    
+       Segments
+           SegGs    : 0x2b
+           SegFs    : 0x53
+           SegEs    : 0x2b
+           SegDs    : 0x2b
+    
+       Debug registers
+           Dr0      : 0x0
+           Dr1      : 0x0
+           Dr2      : 0x0
+           Dr3      : 0x0
+           Dr6      : 0x0
+           Dr6      : 0x0
+    
+       Float registers
+           Control      : 0x7f
+           Status       : 0x120
+           Tag          : 0xffff
+           ErrorOffset  : 0x6c7e33f3
+           ErrorSelector: 0x23
+           DataOffset   : 0x19f18c
+           DataSelector : 0x2b
+    
+
+Exception intercepted on: Wed Jun 08 12:34:33 2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Exception Record (0x19f160):
+       Code  : 0xc0000005 (EXCEPTION_ACCESS_VIOLATION)
+       Flags : 0x0 (Continuable Exception)
+       Addr  : 0x400130 (HitmanContracts.exe)
+       Info  : 
+             : 0x8
+             : 0x400130
+       Parent: 0x0 (End-of-nesting)
+    
+
+    Processor Record:
+       Context Flags: 0x1007f
+    
+       Integer registers
+           Eax      : 0x0
+           Ebx      : 0x2ebce70
+           Ecx      : 0x798a7653
+           Edx      : 0x2b40000
+           Esi      : 0x2ec8509
+           Edi      : 0x2ebce70
+    
+       Control registers
+           Ebp      : 0x7c8cd8
+           Eip      : 0x400130 (HitmanContracts.exe)
+           Esp      : 0x19f510
+           EFlags   : 0x10246
+           SegCs    : 0x23
+           SegSs    : 0x2b
+    
+       Segments
+           SegGs    : 0x2b
+           SegFs    : 0x53
+           SegEs    : 0x2b
+           SegDs    : 0x2b
+    
+       Debug registers
+           Dr0      : 0x0
+           Dr1      : 0x0
+           Dr2      : 0x0
+           Dr3      : 0x0
+           Dr6      : 0x0
+           Dr6      : 0x0
+    
+       Float registers
+           Control      : 0x7f
+           Status       : 0x120
+           Tag          : 0xffff
+           ErrorOffset  : 0x6c7e33f3
+           ErrorSelector: 0x23
+           DataOffset   : 0x19f18c
+           DataSelector : 0x2b
+    
+
+Exception intercepted on: Wed Jun 08 13:29:04 2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Exception Record (0x19f160):
+       Code  : 0xc0000005 (EXCEPTION_ACCESS_VIOLATION)
+       Flags : 0x0 (Continuable Exception)
+       Addr  : 0x400130 (HitmanContracts.exe)
+       Info  : 
+             : 0x8
+             : 0x400130
+       Parent: 0x0 (End-of-nesting)
+    
+
+    Processor Record:
+       Context Flags: 0x1007f
+    
+       Integer registers
+           Eax      : 0x0
+           Ebx      : 0x2c4de70
+           Ecx      : 0x5d6dc903
+           Edx      : 0x2980000
+           Esi      : 0x2c59509
+           Edi      : 0x2c4de70
+    
+       Control registers
+           Ebp      : 0x7c8cd8
+           Eip      : 0x400130 (HitmanContracts.exe)
+           Esp      : 0x19f510
+           EFlags   : 0x10246
+           SegCs    : 0x23
+           SegSs    : 0x2b
+    
+       Segments
+           SegGs    : 0x2b
+           SegFs    : 0x53
+           SegEs    : 0x2b
+           SegDs    : 0x2b
+    
+       Debug registers
+           Dr0      : 0x0
+           Dr1      : 0x0
+           Dr2      : 0x0
+           Dr3      : 0x0
+           Dr6      : 0x0
+           Dr6      : 0x0
+    
+       Float registers
+           Control      : 0x7f
+           Status       : 0x120
+           Tag          : 0xffff
+           ErrorOffset  : 0x6c6e33f3
+           ErrorSelector: 0x23
+           DataOffset   : 0x19f18c
+           DataSelector : 0x2b
+    
+
+Exception intercepted on: Wed Jun 08 13:29:05 2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Exception Record (0x19f160):
+       Code  : 0xc0000005 (EXCEPTION_ACCESS_VIOLATION)
+       Flags : 0x0 (Continuable Exception)
+       Addr  : 0x400130 (HitmanContracts.exe)
+       Info  : 
+             : 0x8
+             : 0x400130
+       Parent: 0x0 (End-of-nesting)
+    
+
+    Processor Record:
+       Context Flags: 0x1007f
+    
+       Integer registers
+           Eax      : 0x0
+           Ebx      : 0x2c4de70
+           Ecx      : 0x5d6dc903
+           Edx      : 0x2980000
+           Esi      : 0x2c59509
+           Edi      : 0x2c4de70
+    
+       Control registers
+           Ebp      : 0x7c8cd8
+           Eip      : 0x400130 (HitmanContracts.exe)
+           Esp      : 0x19f510
+           EFlags   : 0x10246
+           SegCs    : 0x23
+           SegSs    : 0x2b
+    
+       Segments
+           SegGs    : 0x2b
+           SegFs    : 0x53
+           SegEs    : 0x2b
+           SegDs    : 0x2b
+    
+       Debug registers
+           Dr0      : 0x0
+           Dr1      : 0x0
+           Dr2      : 0x0
+           Dr3      : 0x0
+           Dr6      : 0x0
+           Dr6      : 0x0
+    
+       Float registers
+           Control      : 0x7f
+           Status       : 0x120
+           Tag          : 0xffff
+           ErrorOffset  : 0x6c6e33f3
+           ErrorSelector: 0x23
+           DataOffset   : 0x19f18c
+           DataSelector : 0x2b
+    
+
+Exception intercepted on: Wed Jun 08 13:29:05 2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Exception Record (0x19f160):
+       Code  : 0xc0000005 (EXCEPTION_ACCESS_VIOLATION)
+       Flags : 0x0 (Continuable Exception)
+       Addr  : 0x400130 (HitmanContracts.exe)
+       Info  : 
+             : 0x8
+             : 0x400130
+       Parent: 0x0 (End-of-nesting)
+    
+
+    Processor Record:
+       Context Flags: 0x1007f
+    
+       Integer registers
+           Eax      : 0x0
+           Ebx      : 0x2c4de70
+           Ecx      : 0x5d6dc903
+           Edx      : 0x2980000
+           Esi      : 0x2c59509
+           Edi      : 0x2c4de70
+    
+       Control registers
+           Ebp      : 0x7c8cd8
+           Eip      : 0x400130 (HitmanContracts.exe)
+           Esp      : 0x19f510
+           EFlags   : 0x10246
+           SegCs    : 0x23
+           SegSs    : 0x2b
+    
+       Segments
+           SegGs    : 0x2b
+           SegFs    : 0x53
+           SegEs    : 0x2b
+           SegDs    : 0x2b
+    
+       Debug registers
+           Dr0      : 0x0
+           Dr1      : 0x0
+           Dr2      : 0x0
+           Dr3      : 0x0
+           Dr6      : 0x0
+           Dr6      : 0x0
+    
+       Float registers
+           Control      : 0x7f
+           Status       : 0x120
+           Tag          : 0xffff
+           ErrorOffset  : 0x6c6e33f3
+           ErrorSelector: 0x23
+           DataOffset   : 0x19f18c
+           DataSelector : 0x2b
+    
+
+Exception intercepted on: Wed Jun 08 13:29:05 2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Exception Record (0x19f160):
+       Code  : 0xc0000005 (EXCEPTION_ACCESS_VIOLATION)
+       Flags : 0x0 (Continuable Exception)
+       Addr  : 0x400130 (HitmanContracts.exe)
+       Info  : 
+             : 0x8
+             : 0x400130
+       Parent: 0x0 (End-of-nesting)
+    
+
+    Processor Record:
+       Context Flags: 0x1007f
+    
+       Integer registers
+           Eax      : 0x0
+           Ebx      : 0x2c4de70
+           Ecx      : 0x5d6dc903
+           Edx      : 0x2980000
+           Esi      : 0x2c59509
+           Edi      : 0x2c4de70
+    
+       Control registers
+           Ebp      : 0x7c8cd8
+           Eip      : 0x400130 (HitmanContracts.exe)
+           Esp      : 0x19f510
+           EFlags   : 0x10246
+           SegCs    : 0x23
+           SegSs    : 0x2b
+    
+       Segments
+           SegGs    : 0x2b
+           SegFs    : 0x53
+           SegEs    : 0x2b
+           SegDs    : 0x2b
+    
+       Debug registers
+           Dr0      : 0x0
+           Dr1      : 0x0
+           Dr2      : 0x0
+           Dr3      : 0x0
+           Dr6      : 0x0
+           Dr6      : 0x0
+    
+       Float registers
+           Control      : 0x7f
+           Status       : 0x120
+           Tag          : 0xffff
+           ErrorOffset  : 0x6c6e33f3
+           ErrorSelector: 0x23
+           DataOffset   : 0x19f18c
+           DataSelector : 0x2b
+    
+
+Exception intercepted on: Wed Jun 08 15:29:03 2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Exception Record (0x19f160):
+       Code  : 0xc0000005 (EXCEPTION_ACCESS_VIOLATION)
+       Flags : 0x0 (Continuable Exception)
+       Addr  : 0x400130 (HitmanContracts.exe)
+       Info  : 
+             : 0x8
+             : 0x400130
+       Parent: 0x0 (End-of-nesting)
+    
+
+    Processor Record:
+       Context Flags: 0x1007f
+    
+       Integer registers
+           Eax      : 0x0
+           Ebx      : 0x2df1e70
+           Ecx      : 0x7ce3e29
+           Edx      : 0x2b10000
+           Esi      : 0x2dfd509
+           Edi      : 0x2df1e70
+    
+       Control registers
+           Ebp      : 0x7c8cd8
+           Eip      : 0x400130 (HitmanContracts.exe)
+           Esp      : 0x19f510
+           EFlags   : 0x10246
+           SegCs    : 0x23
+           SegSs    : 0x2b
+    
+       Segments
+           SegGs    : 0x2b
+           SegFs    : 0x53
+           SegEs    : 0x2b
+           SegDs    : 0x2b
+    
+       Debug registers
+           Dr0      : 0x0
+           Dr1      : 0x0
+           Dr2      : 0x0
+           Dr3      : 0x0
+           Dr6      : 0x0
+           Dr6      : 0x0
+    
+       Float registers
+           Control      : 0x7f
+           Status       : 0x120
+           Tag          : 0xffff
+           ErrorOffset  : 0x6c7e33f3
+           ErrorSelector: 0x23
+           DataOffset   : 0x19f18c
+           DataSelector : 0x2b
+    
+
+Exception intercepted on: Wed Jun 08 15:29:04 2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Exception Record (0x19f160):
+       Code  : 0xc0000005 (EXCEPTION_ACCESS_VIOLATION)
+       Flags : 0x0 (Continuable Exception)
+       Addr  : 0x400130 (HitmanContracts.exe)
+       Info  : 
+             : 0x8
+             : 0x400130
+       Parent: 0x0 (End-of-nesting)
+    
+
+    Processor Record:
+       Context Flags: 0x1007f
+    
+       Integer registers
+           Eax      : 0x0
+           Ebx      : 0x2df1e70
+           Ecx      : 0x7ce3e29
+           Edx      : 0x2b10000
+           Esi      : 0x2dfd509
+           Edi      : 0x2df1e70
+    
+       Control registers
+           Ebp      : 0x7c8cd8
+           Eip      : 0x400130 (HitmanContracts.exe)
+           Esp      : 0x19f510
+           EFlags   : 0x10246
+           SegCs    : 0x23
+           SegSs    : 0x2b
+    
+       Segments
+           SegGs    : 0x2b
+           SegFs    : 0x53
+           SegEs    : 0x2b
+           SegDs    : 0x2b
+    
+       Debug registers
+           Dr0      : 0x0
+           Dr1      : 0x0
+           Dr2      : 0x0
+           Dr3      : 0x0
+           Dr6      : 0x0
+           Dr6      : 0x0
+    
+       Float registers
+           Control      : 0x7f
+           Status       : 0x120
+           Tag          : 0xffff
+           ErrorOffset  : 0x6c7e33f3
+           ErrorSelector: 0x23
+           DataOffset   : 0x19f18c
+           DataSelector : 0x2b
+    
+
+Exception intercepted on: Wed Jun 08 15:29:05 2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Exception Record (0x19f160):
+       Code  : 0xc0000005 (EXCEPTION_ACCESS_VIOLATION)
+       Flags : 0x0 (Continuable Exception)
+       Addr  : 0x400130 (HitmanContracts.exe)
+       Info  : 
+             : 0x8
+             : 0x400130
+       Parent: 0x0 (End-of-nesting)
+    
+
+    Processor Record:
+       Context Flags: 0x1007f
+    
+       Integer registers
+           Eax      : 0x0
+           Ebx      : 0x2df1e70
+           Ecx      : 0x7ce3e29
+           Edx      : 0x2b10000
+           Esi      : 0x2dfd509
+           Edi      : 0x2df1e70
+    
+       Control registers
+           Ebp      : 0x7c8cd8
+           Eip      : 0x400130 (HitmanContracts.exe)
+           Esp      : 0x19f510
+           EFlags   : 0x10246
+           SegCs    : 0x23
+           SegSs    : 0x2b
+    
+       Segments
+           SegGs    : 0x2b
+           SegFs    : 0x53
+           SegEs    : 0x2b
+           SegDs    : 0x2b
+    
+       Debug registers
+           Dr0      : 0x0
+           Dr1      : 0x0
+           Dr2      : 0x0
+           Dr3      : 0x0
+           Dr6      : 0x0
+           Dr6      : 0x0
+    
+       Float registers
+           Control      : 0x7f
+           Status       : 0x120
+           Tag          : 0xffff
+           ErrorOffset  : 0x6c7e33f3
+           ErrorSelector: 0x23
+           DataOffset   : 0x19f18c
+           DataSelector : 0x2b
+    
+
+Exception intercepted on: Wed Jun 08 15:29:06 2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Exception Record (0x19f160):
+       Code  : 0xc0000005 (EXCEPTION_ACCESS_VIOLATION)
+       Flags : 0x0 (Continuable Exception)
+       Addr  : 0x400130 (HitmanContracts.exe)
+       Info  : 
+             : 0x8
+             : 0x400130
+       Parent: 0x0 (End-of-nesting)
+    
+
+    Processor Record:
+       Context Flags: 0x1007f
+    
+       Integer registers
+           Eax      : 0x0
+           Ebx      : 0x2df1e70
+           Ecx      : 0x7ce3e29
+           Edx      : 0x2b10000
+           Esi      : 0x2dfd509
+           Edi      : 0x2df1e70
+    
+       Control registers
+           Ebp      : 0x7c8cd8
+           Eip      : 0x400130 (HitmanContracts.exe)
+           Esp      : 0x19f510
+           EFlags   : 0x10246
+           SegCs    : 0x23
+           SegSs    : 0x2b
+    
+       Segments
+           SegGs    : 0x2b
+           SegFs    : 0x53
+           SegEs    : 0x2b
+           SegDs    : 0x2b
+    
+       Debug registers
+           Dr0      : 0x0
+           Dr1      : 0x0
+           Dr2      : 0x0
+           Dr3      : 0x0
+           Dr6      : 0x0
+           Dr6      : 0x0
+    
+       Float registers
+           Control      : 0x7f
+           Status       : 0x120
+           Tag          : 0xffff
+           ErrorOffset  : 0x6c7e33f3
+           ErrorSelector: 0x23
+           DataOffset   : 0x19f18c
+           DataSelector : 0x2b
+    
+
+Exception intercepted on: Wed Jun 08 19:17:46 2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Exception Record (0x19f160):
+       Code  : 0xc0000005 (EXCEPTION_ACCESS_VIOLATION)
+       Flags : 0x0 (Continuable Exception)
+       Addr  : 0x400130 (HitmanContracts.exe)
+       Info  : 
+             : 0x8
+             : 0x400130
+       Parent: 0x0 (End-of-nesting)
+    
+
+    Processor Record:
+       Context Flags: 0x1007f
+    
+       Integer registers
+           Eax      : 0x0
+           Ebx      : 0x2dc5e70
+           Ecx      : 0x9541b864
+           Edx      : 0x2b20000
+           Esi      : 0x2dd1509
+           Edi      : 0x2dc5e70
+    
+       Control registers
+           Ebp      : 0x7c8cd8
+           Eip      : 0x400130 (HitmanContracts.exe)
+           Esp      : 0x19f510
+           EFlags   : 0x10246
+           SegCs    : 0x23
+           SegSs    : 0x2b
+    
+       Segments
+           SegGs    : 0x2b
+           SegFs    : 0x53
+           SegEs    : 0x2b
+           SegDs    : 0x2b
+    
+       Debug registers
+           Dr0      : 0x0
+           Dr1      : 0x0
+           Dr2      : 0x0
+           Dr3      : 0x0
+           Dr6      : 0x0
+           Dr6      : 0x0
+    
+       Float registers
+           Control      : 0x7f
+           Status       : 0x120
+           Tag          : 0xffff
+           ErrorOffset  : 0x6c6e33f3
+           ErrorSelector: 0x23
+           DataOffset   : 0x19f18c
+           DataSelector : 0x2b
+    
+
+Exception intercepted on: Wed Jun 08 19:17:46 2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Exception Record (0x19f160):
+       Code  : 0xc0000005 (EXCEPTION_ACCESS_VIOLATION)
+       Flags : 0x0 (Continuable Exception)
+       Addr  : 0x400130 (HitmanContracts.exe)
+       Info  : 
+             : 0x8
+             : 0x400130
+       Parent: 0x0 (End-of-nesting)
+    
+
+    Processor Record:
+       Context Flags: 0x1007f
+    
+       Integer registers
+           Eax      : 0x0
+           Ebx      : 0x2dc5e70
+           Ecx      : 0x9541b864
+           Edx      : 0x2b20000
+           Esi      : 0x2dd1509
+           Edi      : 0x2dc5e70
+    
+       Control registers
+           Ebp      : 0x7c8cd8
+           Eip      : 0x400130 (HitmanContracts.exe)
+           Esp      : 0x19f510
+           EFlags   : 0x10246
+           SegCs    : 0x23
+           SegSs    : 0x2b
+    
+       Segments
+           SegGs    : 0x2b
+           SegFs    : 0x53
+           SegEs    : 0x2b
+           SegDs    : 0x2b
+    
+       Debug registers
+           Dr0      : 0x0
+           Dr1      : 0x0
+           Dr2      : 0x0
+           Dr3      : 0x0
+           Dr6      : 0x0
+           Dr6      : 0x0
+    
+       Float registers
+           Control      : 0x7f
+           Status       : 0x120
+           Tag          : 0xffff
+           ErrorOffset  : 0x6c6e33f3
+           ErrorSelector: 0x23
+           DataOffset   : 0x19f18c
+           DataSelector : 0x2b
+    
+
+Exception intercepted on: Wed Jun 08 19:17:47 2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Exception Record (0x19f160):
+       Code  : 0xc0000005 (EXCEPTION_ACCESS_VIOLATION)
+       Flags : 0x0 (Continuable Exception)
+       Addr  : 0x400130 (HitmanContracts.exe)
+       Info  : 
+             : 0x8
+             : 0x400130
+       Parent: 0x0 (End-of-nesting)
+    
+
+    Processor Record:
+       Context Flags: 0x1007f
+    
+       Integer registers
+           Eax      : 0x0
+           Ebx      : 0x2dc5e70
+           Ecx      : 0x9541b864
+           Edx      : 0x2b20000
+           Esi      : 0x2dd1509
+           Edi      : 0x2dc5e70
+    
+       Control registers
+           Ebp      : 0x7c8cd8
+           Eip      : 0x400130 (HitmanContracts.exe)
+           Esp      : 0x19f510
+           EFlags   : 0x10246
+           SegCs    : 0x23
+           SegSs    : 0x2b
+    
+       Segments
+           SegGs    : 0x2b
+           SegFs    : 0x53
+           SegEs    : 0x2b
+           SegDs    : 0x2b
+    
+       Debug registers
+           Dr0      : 0x0
+           Dr1      : 0x0
+           Dr2      : 0x0
+           Dr3      : 0x0
+           Dr6      : 0x0
+           Dr6      : 0x0
+    
+       Float registers
+           Control      : 0x7f
+           Status       : 0x120
+           Tag          : 0xffff
+           ErrorOffset  : 0x6c6e33f3
+           ErrorSelector: 0x23
+           DataOffset   : 0x19f18c
+           DataSelector : 0x2b
+    
+
+Exception intercepted on: Wed Jun 08 19:17:48 2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Exception Record (0x19f160):
+       Code  : 0xc0000005 (EXCEPTION_ACCESS_VIOLATION)
+       Flags : 0x0 (Continuable Exception)
+       Addr  : 0x400130 (HitmanContracts.exe)
+       Info  : 
+             : 0x8
+             : 0x400130
+       Parent: 0x0 (End-of-nesting)
+    
+
+    Processor Record:
+       Context Flags: 0x1007f
+    
+       Integer registers
+           Eax      : 0x0
+           Ebx      : 0x2dc5e70
+           Ecx      : 0x9541b864
+           Edx      : 0x2b20000
+           Esi      : 0x2dd1509
+           Edi      : 0x2dc5e70
+    
+       Control registers
+           Ebp      : 0x7c8cd8
+           Eip      : 0x400130 (HitmanContracts.exe)
+           Esp      : 0x19f510
+           EFlags   : 0x10246
+           SegCs    : 0x23
+           SegSs    : 0x2b
+    
+       Segments
+           SegGs    : 0x2b
+           SegFs    : 0x53
+           SegEs    : 0x2b
+           SegDs    : 0x2b
+    
+       Debug registers
+           Dr0      : 0x0
+           Dr1      : 0x0
+           Dr2      : 0x0
+           Dr3      : 0x0
+           Dr6      : 0x0
+           Dr6      : 0x0
+    
+       Float registers
+           Control      : 0x7f
+           Status       : 0x120
+           Tag          : 0xffff
+           ErrorOffset  : 0x6c6e33f3
+           ErrorSelector: 0x23
+           DataOffset   : 0x19f18c
+           DataSelector : 0x2b
+    
+
+Exception intercepted on: Wed Jun 08 19:19:04 2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Exception Record (0x19f160):
+       Code  : 0xc0000005 (EXCEPTION_ACCESS_VIOLATION)
+       Flags : 0x0 (Continuable Exception)
+       Addr  : 0x400130 (HitmanContracts.exe)
+       Info  : 
+             : 0x8
+             : 0x400130
+       Parent: 0x0 (End-of-nesting)
+    
+
+    Processor Record:
+       Context Flags: 0x1007f
+    
+       Integer registers
+           Eax      : 0x0
+           Ebx      : 0x2dd2e70
+           Ecx      : 0xe1cd0568
+           Edx      : 0x7fffffff
+           Esi      : 0x2dde509
+           Edi      : 0x2dd2e70
+    
+       Control registers
+           Ebp      : 0x7c8cd8
+           Eip      : 0x400130 (HitmanContracts.exe)
+           Esp      : 0x19f510
+           EFlags   : 0x10246
+           SegCs    : 0x23
+           SegSs    : 0x2b
+    
+       Segments
+           SegGs    : 0x2b
+           SegFs    : 0x53
+           SegEs    : 0x2b
+           SegDs    : 0x2b
+    
+       Debug registers
+           Dr0      : 0x0
+           Dr1      : 0x0
+           Dr2      : 0x0
+           Dr3      : 0x0
+           Dr6      : 0x0
+           Dr6      : 0x0
+    
+       Float registers
+           Control      : 0x7f
+           Status       : 0x120
+           Tag          : 0xffff
+           ErrorOffset  : 0x6c4533f3
+           ErrorSelector: 0x23
+           DataOffset   : 0x19f18c
+           DataSelector : 0x2b
+    
+
+Exception intercepted on: Wed Jun 08 19:19:05 2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Exception Record (0x19f160):
+       Code  : 0xc0000005 (EXCEPTION_ACCESS_VIOLATION)
+       Flags : 0x0 (Continuable Exception)
+       Addr  : 0x400130 (HitmanContracts.exe)
+       Info  : 
+             : 0x8
+             : 0x400130
+       Parent: 0x0 (End-of-nesting)
+    
+
+    Processor Record:
+       Context Flags: 0x1007f
+    
+       Integer registers
+           Eax      : 0x0
+           Ebx      : 0x2dd2e70
+           Ecx      : 0xe1cd0568
+           Edx      : 0x7fffffff
+           Esi      : 0x2dde509
+           Edi      : 0x2dd2e70
+    
+       Control registers
+           Ebp      : 0x7c8cd8
+           Eip      : 0x400130 (HitmanContracts.exe)
+           Esp      : 0x19f510
+           EFlags   : 0x10246
+           SegCs    : 0x23
+           SegSs    : 0x2b
+    
+       Segments
+           SegGs    : 0x2b
+           SegFs    : 0x53
+           SegEs    : 0x2b
+           SegDs    : 0x2b
+    
+       Debug registers
+           Dr0      : 0x0
+           Dr1      : 0x0
+           Dr2      : 0x0
+           Dr3      : 0x0
+           Dr6      : 0x0
+           Dr6      : 0x0
+    
+       Float registers
+           Control      : 0x7f
+           Status       : 0x120
+           Tag          : 0xffff
+           ErrorOffset  : 0x6c4533f3
+           ErrorSelector: 0x23
+           DataOffset   : 0x19f18c
+           DataSelector : 0x2b
+    
+
+Exception intercepted on: Wed Jun 08 19:19:05 2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Exception Record (0x19f160):
+       Code  : 0xc0000005 (EXCEPTION_ACCESS_VIOLATION)
+       Flags : 0x0 (Continuable Exception)
+       Addr  : 0x400130 (HitmanContracts.exe)
+       Info  : 
+             : 0x8
+             : 0x400130
+       Parent: 0x0 (End-of-nesting)
+    
+
+    Processor Record:
+       Context Flags: 0x1007f
+    
+       Integer registers
+           Eax      : 0x0
+           Ebx      : 0x2dd2e70
+           Ecx      : 0xe1cd0568
+           Edx      : 0x7fffffff
+           Esi      : 0x2dde509
+           Edi      : 0x2dd2e70
+    
+       Control registers
+           Ebp      : 0x7c8cd8
+           Eip      : 0x400130 (HitmanContracts.exe)
+           Esp      : 0x19f510
+           EFlags   : 0x10246
+           SegCs    : 0x23
+           SegSs    : 0x2b
+    
+       Segments
+           SegGs    : 0x2b
+           SegFs    : 0x53
+           SegEs    : 0x2b
+           SegDs    : 0x2b
+    
+       Debug registers
+           Dr0      : 0x0
+           Dr1      : 0x0
+           Dr2      : 0x0
+           Dr3      : 0x0
+           Dr6      : 0x0
+           Dr6      : 0x0
+    
+       Float registers
+           Control      : 0x7f
+           Status       : 0x120
+           Tag          : 0xffff
+           ErrorOffset  : 0x6c4533f3
+           ErrorSelector: 0x23
+           DataOffset   : 0x19f18c
+           DataSelector : 0x2b
+    
+
+Exception intercepted on: Wed Jun 08 19:19:06 2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Exception Record (0x19f160):
+       Code  : 0xc0000005 (EXCEPTION_ACCESS_VIOLATION)
+       Flags : 0x0 (Continuable Exception)
+       Addr  : 0x400130 (HitmanContracts.exe)
+       Info  : 
+             : 0x8
+             : 0x400130
+       Parent: 0x0 (End-of-nesting)
+    
+
+    Processor Record:
+       Context Flags: 0x1007f
+    
+       Integer registers
+           Eax      : 0x0
+           Ebx      : 0x2dd2e70
+           Ecx      : 0xe1cd0568
+           Edx      : 0x7fffffff
+           Esi      : 0x2dde509
+           Edi      : 0x2dd2e70
+    
+       Control registers
+           Ebp      : 0x7c8cd8
+           Eip      : 0x400130 (HitmanContracts.exe)
+           Esp      : 0x19f510
+           EFlags   : 0x10246
+           SegCs    : 0x23
+           SegSs    : 0x2b
+    
+       Segments
+           SegGs    : 0x2b
+           SegFs    : 0x53
+           SegEs    : 0x2b
+           SegDs    : 0x2b
+    
+       Debug registers
+           Dr0      : 0x0
+           Dr1      : 0x0
+           Dr2      : 0x0
+           Dr3      : 0x0
+           Dr6      : 0x0
+           Dr6      : 0x0
+    
+       Float registers
+           Control      : 0x7f
+           Status       : 0x120
+           Tag          : 0xffff
+           ErrorOffset  : 0x6c4533f3
+           ErrorSelector: 0x23
+           DataOffset   : 0x19f18c
+           DataSelector : 0x2b
+    
+
+Exception intercepted on: Wed Jun 08 19:19:46 2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Exception Record (0x19f160):
+       Code  : 0xc0000005 (EXCEPTION_ACCESS_VIOLATION)
+       Flags : 0x0 (Continuable Exception)
+       Addr  : 0x400130 (HitmanContracts.exe)
+       Info  : 
+             : 0x8
+             : 0x400130
+       Parent: 0x0 (End-of-nesting)
+    
+
+    Processor Record:
+       Context Flags: 0x1007f
+    
+       Integer registers
+           Eax      : 0x0
+           Ebx      : 0x2ffbe70
+           Ecx      : 0xc09d43fc
+           Edx      : 0x7fffffff
+           Esi      : 0x3007509
+           Edi      : 0x2ffbe70
+    
+       Control registers
+           Ebp      : 0x7c8cd8
+           Eip      : 0x400130 (HitmanContracts.exe)
+           Esp      : 0x19f510
+           EFlags   : 0x10246
+           SegCs    : 0x23
+           SegSs    : 0x2b
+    
+       Segments
+           SegGs    : 0x2b
+           SegFs    : 0x53
+           SegEs    : 0x2b
+           SegDs    : 0x2b
+    
+       Debug registers
+           Dr0      : 0x0
+           Dr1      : 0x0
+           Dr2      : 0x0
+           Dr3      : 0x0
+           Dr6      : 0x0
+           Dr6      : 0x0
+    
+       Float registers
+           Control      : 0x7f
+           Status       : 0x120
+           Tag          : 0xffff
+           ErrorOffset  : 0x6c5533f3
+           ErrorSelector: 0x23
+           DataOffset   : 0x19f18c
+           DataSelector : 0x2b
+    
+
+Exception intercepted on: Wed Jun 08 19:19:47 2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Exception Record (0x19f160):
+       Code  : 0xc0000005 (EXCEPTION_ACCESS_VIOLATION)
+       Flags : 0x0 (Continuable Exception)
+       Addr  : 0x400130 (HitmanContracts.exe)
+       Info  : 
+             : 0x8
+             : 0x400130
+       Parent: 0x0 (End-of-nesting)
+    
+
+    Processor Record:
+       Context Flags: 0x1007f
+    
+       Integer registers
+           Eax      : 0x0
+           Ebx      : 0x2ffbe70
+           Ecx      : 0xc09d43fc
+           Edx      : 0x7fffffff
+           Esi      : 0x3007509
+           Edi      : 0x2ffbe70
+    
+       Control registers
+           Ebp      : 0x7c8cd8
+           Eip      : 0x400130 (HitmanContracts.exe)
+           Esp      : 0x19f510
+           EFlags   : 0x10246
+           SegCs    : 0x23
+           SegSs    : 0x2b
+    
+       Segments
+           SegGs    : 0x2b
+           SegFs    : 0x53
+           SegEs    : 0x2b
+           SegDs    : 0x2b
+    
+       Debug registers
+           Dr0      : 0x0
+           Dr1      : 0x0
+           Dr2      : 0x0
+           Dr3      : 0x0
+           Dr6      : 0x0
+           Dr6      : 0x0
+    
+       Float registers
+           Control      : 0x7f
+           Status       : 0x120
+           Tag          : 0xffff
+           ErrorOffset  : 0x6c5533f3
+           ErrorSelector: 0x23
+           DataOffset   : 0x19f18c
+           DataSelector : 0x2b
+    
+
+Exception intercepted on: Wed Jun 08 19:19:47 2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Exception Record (0x19f160):
+       Code  : 0xc0000005 (EXCEPTION_ACCESS_VIOLATION)
+       Flags : 0x0 (Continuable Exception)
+       Addr  : 0x400130 (HitmanContracts.exe)
+       Info  : 
+             : 0x8
+             : 0x400130
+       Parent: 0x0 (End-of-nesting)
+    
+
+    Processor Record:
+       Context Flags: 0x1007f
+    
+       Integer registers
+           Eax      : 0x0
+           Ebx      : 0x2ffbe70
+           Ecx      : 0xc09d43fc
+           Edx      : 0x7fffffff
+           Esi      : 0x3007509
+           Edi      : 0x2ffbe70
+    
+       Control registers
+           Ebp      : 0x7c8cd8
+           Eip      : 0x400130 (HitmanContracts.exe)
+           Esp      : 0x19f510
+           EFlags   : 0x10246
+           SegCs    : 0x23
+           SegSs    : 0x2b
+    
+       Segments
+           SegGs    : 0x2b
+           SegFs    : 0x53
+           SegEs    : 0x2b
+           SegDs    : 0x2b
+    
+       Debug registers
+           Dr0      : 0x0
+           Dr1      : 0x0
+           Dr2      : 0x0
+           Dr3      : 0x0
+           Dr6      : 0x0
+           Dr6      : 0x0
+    
+       Float registers
+           Control      : 0x7f
+           Status       : 0x120
+           Tag          : 0xffff
+           ErrorOffset  : 0x6c5533f3
+           ErrorSelector: 0x23
+           DataOffset   : 0x19f18c
+           DataSelector : 0x2b
+    
+
+Exception intercepted on: Wed Jun 08 19:19:48 2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Exception Record (0x19f160):
+       Code  : 0xc0000005 (EXCEPTION_ACCESS_VIOLATION)
+       Flags : 0x0 (Continuable Exception)
+       Addr  : 0x400130 (HitmanContracts.exe)
+       Info  : 
+             : 0x8
+             : 0x400130
+       Parent: 0x0 (End-of-nesting)
+    
+
+    Processor Record:
+       Context Flags: 0x1007f
+    
+       Integer registers
+           Eax      : 0x0
+           Ebx      : 0x2ffbe70
+           Ecx      : 0xc09d43fc
+           Edx      : 0x7fffffff
+           Esi      : 0x3007509
+           Edi      : 0x2ffbe70
+    
+       Control registers
+           Ebp      : 0x7c8cd8
+           Eip      : 0x400130 (HitmanContracts.exe)
+           Esp      : 0x19f510
+           EFlags   : 0x10246
+           SegCs    : 0x23
+           SegSs    : 0x2b
+    
+       Segments
+           SegGs    : 0x2b
+           SegFs    : 0x53
+           SegEs    : 0x2b
+           SegDs    : 0x2b
+    
+       Debug registers
+           Dr0      : 0x0
+           Dr1      : 0x0
+           Dr2      : 0x0
+           Dr3      : 0x0
+           Dr6      : 0x0
+           Dr6      : 0x0
+    
+       Float registers
+           Control      : 0x7f
+           Status       : 0x120
+           Tag          : 0xffff
+           ErrorOffset  : 0x6c5533f3
+           ErrorSelector: 0x23
+           DataOffset   : 0x19f18c
+           DataSelector : 0x2b
+    
+
+Exception intercepted on: Wed Jun 08 19:20:43 2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Exception Record (0x19f160):
+       Code  : 0xc0000005 (EXCEPTION_ACCESS_VIOLATION)
+       Flags : 0x0 (Continuable Exception)
+       Addr  : 0x400130 (HitmanContracts.exe)
+       Info  : 
+             : 0x8
+             : 0x400130
+       Parent: 0x0 (End-of-nesting)
+    
+
+    Processor Record:
+       Context Flags: 0x1007f
+    
+       Integer registers
+           Eax      : 0x0
+           Ebx      : 0x2d91e70
+           Ecx      : 0xf8a4d3c1
+           Edx      : 0x7fffffff
+           Esi      : 0x2d9d509
+           Edi      : 0x2d91e70
+    
+       Control registers
+           Ebp      : 0x7c8cd8
+           Eip      : 0x400130 (HitmanContracts.exe)
+           Esp      : 0x19f510
+           EFlags   : 0x10246
+           SegCs    : 0x23
+           SegSs    : 0x2b
+    
+       Segments
+           SegGs    : 0x2b
+           SegFs    : 0x53
+           SegEs    : 0x2b
+           SegDs    : 0x2b
+    
+       Debug registers
+           Dr0      : 0x0
+           Dr1      : 0x0
+           Dr2      : 0x0
+           Dr3      : 0x0
+           Dr6      : 0x0
+           Dr6      : 0x0
+    
+       Float registers
+           Control      : 0x7f
+           Status       : 0x120
+           Tag          : 0xffff
+           ErrorOffset  : 0x6c5533f3
+           ErrorSelector: 0x23
+           DataOffset   : 0x19f18c
+           DataSelector : 0x2b
+    
+
+Exception intercepted on: Wed Jun 08 19:20:44 2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Exception Record (0x19f160):
+       Code  : 0xc0000005 (EXCEPTION_ACCESS_VIOLATION)
+       Flags : 0x0 (Continuable Exception)
+       Addr  : 0x400130 (HitmanContracts.exe)
+       Info  : 
+             : 0x8
+             : 0x400130
+       Parent: 0x0 (End-of-nesting)
+    
+
+    Processor Record:
+       Context Flags: 0x1007f
+    
+       Integer registers
+           Eax      : 0x0
+           Ebx      : 0x2d91e70
+           Ecx      : 0xf8a4d3c1
+           Edx      : 0x7fffffff
+           Esi      : 0x2d9d509
+           Edi      : 0x2d91e70
+    
+       Control registers
+           Ebp      : 0x7c8cd8
+           Eip      : 0x400130 (HitmanContracts.exe)
+           Esp      : 0x19f510
+           EFlags   : 0x10246
+           SegCs    : 0x23
+           SegSs    : 0x2b
+    
+       Segments
+           SegGs    : 0x2b
+           SegFs    : 0x53
+           SegEs    : 0x2b
+           SegDs    : 0x2b
+    
+       Debug registers
+           Dr0      : 0x0
+           Dr1      : 0x0
+           Dr2      : 0x0
+           Dr3      : 0x0
+           Dr6      : 0x0
+           Dr6      : 0x0
+    
+       Float registers
+           Control      : 0x7f
+           Status       : 0x120
+           Tag          : 0xffff
+           ErrorOffset  : 0x6c5533f3
+           ErrorSelector: 0x23
+           DataOffset   : 0x19f18c
+           DataSelector : 0x2b
+    
+
+Exception intercepted on: Wed Jun 08 19:20:45 2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Exception Record (0x19f160):
+       Code  : 0xc0000005 (EXCEPTION_ACCESS_VIOLATION)
+       Flags : 0x0 (Continuable Exception)
+       Addr  : 0x400130 (HitmanContracts.exe)
+       Info  : 
+             : 0x8
+             : 0x400130
+       Parent: 0x0 (End-of-nesting)
+    
+
+    Processor Record:
+       Context Flags: 0x1007f
+    
+       Integer registers
+           Eax      : 0x0
+           Ebx      : 0x2d91e70
+           Ecx      : 0xf8a4d3c1
+           Edx      : 0x7fffffff
+           Esi      : 0x2d9d509
+           Edi      : 0x2d91e70
+    
+       Control registers
+           Ebp      : 0x7c8cd8
+           Eip      : 0x400130 (HitmanContracts.exe)
+           Esp      : 0x19f510
+           EFlags   : 0x10246
+           SegCs    : 0x23
+           SegSs    : 0x2b
+    
+       Segments
+           SegGs    : 0x2b
+           SegFs    : 0x53
+           SegEs    : 0x2b
+           SegDs    : 0x2b
+    
+       Debug registers
+           Dr0      : 0x0
+           Dr1      : 0x0
+           Dr2      : 0x0
+           Dr3      : 0x0
+           Dr6      : 0x0
+           Dr6      : 0x0
+    
+       Float registers
+           Control      : 0x7f
+           Status       : 0x120
+           Tag          : 0xffff
+           ErrorOffset  : 0x6c5533f3
+           ErrorSelector: 0x23
+           DataOffset   : 0x19f18c
+           DataSelector : 0x2b
+    
+
+Exception intercepted on: Wed Jun 08 19:20:45 2022
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    Exception Record (0x19f160):
+       Code  : 0xc0000005 (EXCEPTION_ACCESS_VIOLATION)
+       Flags : 0x0 (Continuable Exception)
+       Addr  : 0x400130 (HitmanContracts.exe)
+       Info  : 
+             : 0x8
+             : 0x400130
+       Parent: 0x0 (End-of-nesting)
+    
+
+    Processor Record:
+       Context Flags: 0x1007f
+    
+       Integer registers
+           Eax      : 0x0
+           Ebx      : 0x2d91e70
+           Ecx      : 0xf8a4d3c1
+           Edx      : 0x7fffffff
+           Esi      : 0x2d9d509
+           Edi      : 0x2d91e70
+    
+       Control registers
+           Ebp      : 0x7c8cd8
+           Eip      : 0x400130 (HitmanContracts.exe)
+           Esp      : 0x19f510
+           EFlags   : 0x10246
+           SegCs    : 0x23
+           SegSs    : 0x2b
+    
+       Segments
+           SegGs    : 0x2b
+           SegFs    : 0x53
+           SegEs    : 0x2b
+           SegDs    : 0x2b
+    
+       Debug registers
+           Dr0      : 0x0
+           Dr1      : 0x0
+           Dr2      : 0x0
+           Dr3      : 0x0
+           Dr6      : 0x0
+           Dr6      : 0x0
+    
+       Float registers
+           Control      : 0x7f
+           Status       : 0x120
+           Tag          : 0xffff
+           ErrorOffset  : 0x6c5533f3
+           ErrorSelector: 0x23
+           DataOffset   : 0x19f18c
+           DataSelector : 0x2b
